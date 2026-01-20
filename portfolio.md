@@ -3,30 +3,52 @@ layout: page
 title: Portfolio
 ---
 
-### [Most Optimal Deer Movement Corridor in the Renkums Beekdal](projects/deer_corridor.md)
-[![Most Optimal Deer Movement Corridor in the Renkums Beekdal](assets/images/deer_corridor.png)](projects/deer_corridor.md)
+<div style="
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+">
 
----
+  <div style="text-align: center;">
+    <a href="projects/deer_corridor.md">
+      <img src="assets/images/deer_corridor.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>Most Optimal Deer Movement Corridor in the Renkums Beekdal</strong></p>
+  </div>
 
-### [Suitable Locations for Weather Stations in the Amazonía Region of Ecuador](projects/weather_station_suitability.md)
-[![Suitable Locations for Weather Stations in the Amazonía Region of Ecuador](assets/images/weather_station_suitability.png)](projects/weather_station_suitability.md)
+  <div style="text-align: center;">
+    <a href="projects/weather_station_suitability.md">
+      <img src="assets/images/weather_station_suitability.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>Suitable Locations for Weather Stations in the Amazonía Region of Ecuador</strong></p>
+  </div>
 
----
+  <div style="text-align: center;">
+    <a href="projects/almeria_NDVI.md">
+      <img src="assets/images/almeria_NDVI.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>Change in Greenness in Almería, Spain</strong></p>
+  </div>
 
-### [Change in greenness in Almería, Spain](projects/almeria_NDVI.md)
-[![Change in greenness in Almería, Spain](assets/images/almeria_NDVI.png)](projects/almeria_NDVI.md)
+  <div style="text-align: center;">
+    <a href="projects/MS_thesis.md">
+      <img src="assets/images/MS_thesis_CO2_sensitivity.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>Mapping CO₂ Sensitive Areas in the Ocean</strong></p>
+  </div>
 
----
+  <div style="text-align: center;">
+    <a href="projects/banana_farm.md">
+      <img src="assets/images/MS_internship_actual_yield.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>Modelling the Banana Yield on a Farm</strong></p>
+  </div>
 
-### [Mapping CO2 sensitive areas in the ocean](projects/MS_thesis.md)
-[![Mapping CO2 sensitive areas in the ocean](assets/images/MS_thesis_CO2_sensitivity.png)](projects/MS_thesis.md)
+  <div style="text-align: center;">
+    <a href="projects/tutaj_terkep.md">
+      <img src="assets/images/tutaj_terkep.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>Illustrated, Antique-Style Map of the Tisza River</strong></p>
+  </div>
 
----
-
-### [Modelling the banana yield on a farm](projects/banana_farm.md)
-[![Modelling the banana yield on a farm](assets/images/MS_internship_actual_yield.png)](projects/banana_farm.md)
-
----
-
-### [Illustrated, antique-style map of Tisza River](projects/tutaj_terkep.md)
-[![Illustrated, antique-style map of Tisza River](assets/images/tutaj_terkep.png)](projects/tutaj_terkep.md)
+</div>
