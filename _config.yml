@@ -1,6 +1,10 @@
 title: Csilla Vámos – GIS Portfolio
 description: Desktop GIS and spatial analysis portfolio
 theme: minima
+
+include:
+  - assets/css/custom.css
+
 markdown: kramdown
 
 header_pages:
