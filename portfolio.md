@@ -3,8 +3,6 @@ layout: page
 title: Portfolio
 ---
 
-# Portfolio
-
 ### [Most Optimal Deer Movement Corridor in the Renkums Beekdal](projects/deer_corridor.md)
 [![Most Optimal Deer Movement Corridor in the Renkums Beekdal](assets/images/deer_corridor.png)](projects/deer_corridor.md)
 
