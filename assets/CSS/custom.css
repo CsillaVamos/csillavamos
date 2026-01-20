@@ -1,25 +1,36 @@
-/* Dark background theme */
-
+/* Global background */
 body {
   background-color: #000000;
-  color: #eaeaea;
-}
-
-/* Page content area */
-.page-content {
-  background-color: #000000;
+  color: #e6e6e6;
 }
 
 /* Links */
 a {
-  color: #8ab4f8;
+  color: #7aa2ff;
 }
 
 a:hover {
-  color: #a5c9ff;
+  color: #a6c8ff;
+}
+
+/* Page content container (minima-specific) */
+.site-header,
+.site-footer,
+.page-content {
+  background-color: #000000;
 }
 
 /* Headings */
 h1, h2, h3, h4 {
   color: #ffffff;
+}
+
+/* Navigation */
+.site-nav a {
+  color: #e6e6e6;
+}
+
+/* Images (optional subtle border) */
+img {
+  background-color: #000000;
 }
