@@ -5,15 +5,30 @@ title: Portfolio
 
 # Portfolio
 
-### [Deer corridor](projects/deer_corridor.md)
-[![deer_corridor map](assets/images/deer_corridor_thumb.png)](projects/deer_corridor.md)
+### [Most Optimal Deer Movement Corridor in the Renkums Beekdal](projects/deer_corridor.md)
+[![Most Optimal Deer Movement Corridor in the Renkums Beekdal](assets/images/deer_corridor.png)](projects/deer_corridor.md)
 
 ---
 
-### [weather_station_suitability](projects/weather_station_suitability.md)
-[![weather_station_suitability map](assets/images/weather_station_suitability_thumb.png)](projects/weather_station_suitability.md)
+### [Suitable Locations for Weather Stations in the Amazonía Region of Ecuador](projects/weather_station_suitability.md)
+[![Suitable Locations for Weather Stations in the Amazonía Region of Ecuador](assets/images/weather_station_suitability.png)](projects/weather_station_suitability.md)
 
 ---
 
-### [almeria_NDVI](projects/almeria_NDVI.md)
-[![almeria_NDVI map](assets/images/almeria_NDVI_thumb.png)](projects/almeria_NDVI.md)
+### [Change in greenness in Almería, Spain](projects/almeria_NDVI.md)
+[![Change in greenness in Almería, Spain](assets/images/almeria_NDVI.png)](projects/almeria_NDVI.md)
+
+---
+
+### [Mapping CO2 sensitive areas in the ocean](projects/MS_thesis.md)
+[![Mapping CO2 sensitive areas in the ocean](assets/images/MS_thesis_CO2_sensitivity.png)](projects/MS_thesis.md)
+
+---
+
+### [Modelling the banana yield on a farm](projects/banana_farm.md)
+[![Modelling the banana yield on a farm](assets/images/MS_internship_actual_yield.png)](projects/banana_farm.md)
+
+---
+
+### [Illustrated, antique-style map of Tisza River](projects/tutaj_terkep.md)
+[![Illustrated, antique-style map of Tisza River](assets/images/tutaj_terkep.png)](projects/tutaj_terkep.md)
