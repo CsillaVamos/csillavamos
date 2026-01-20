@@ -1,0 +1,10 @@
+title: Your Name – GIS Portfolio
+description: Desktop GIS and spatial analysis portfolio
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - portfolio.md
+  - about.md
+  - contact.md
