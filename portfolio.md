@@ -5,33 +5,15 @@ title: Portfolio
 
 # Portfolio
 
-## Healthcare Accessibility Analysis
-![Healthcare accessibility map](assets/images/placeholder.png)
-
-- **Problem:** Identify underserved populations with limited access to primary healthcare  
-- **Data:** Census demographics, clinic locations, road network  
-- **Methods:** Network-based service area analysis, population-weighted accessibility  
-- **Tools:** ArcGIS Pro, R  
-- **Outcome:** Identified priority areas outside a 10-minute drive to care
+### [Deer corridor](projects/deer_corridor.md)
+[![deer_corridor map](assets/images/deer_corridor_thumb.png)](projects/deer_corridor.md)
 
 ---
 
-## Site Suitability Analysis
-![Site suitability map](assets/images/placeholder.png)
-
-- **Problem:** Determine optimal locations for new facilities  
-- **Data:** Environmental constraints, infrastructure layers  
-- **Methods:** Weighted overlay analysis, spatial constraints  
-- **Tools:** QGIS  
-- **Outcome:** Ranked candidate sites suitable for development
+### [weather_station_suitability](projects/weather_station_suitability.md)
+[![weather_station_suitability map](assets/images/weather_station_suitability_thumb.png)](projects/weather_station_suitability.md)
 
 ---
 
-## Flood Risk Mapping
-![Flood risk map](assets/images/placeholder.png)
-
-- **Problem:** Assess exposure of residential areas to flood risk  
-- **Data:** Flood zones, elevation, land use  
-- **Methods:** Overlay analysis, risk classification  
-- **Tools:** ArcGIS Pro  
-- **Outcome:** Identified high-risk residential areas for mitigation planning
+### [almeria_NDVI](projects/almeria_NDVI.md)
+[![almeria_NDVI map](assets/images/almeria_NDVI_thumb.png)](projects/almeria_NDVI.md)
