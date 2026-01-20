@@ -45,8 +45,8 @@ title: Portfolio
   </div>
 
   <div style="text-align: center;">
-    <a href="projects/tutaj_terkep.md">
-      <img src="assets/images/tutaj_terkep.png" style="width: 100%; max-width: 300px;">
+    <a href="projects/Tutaj_terkep.md">
+      <img src="assets/images/Tutaj_terkep.png" style="width: 100%; max-width: 300px;">
     </a>
     <p><strong>Illustrated, Antique-Style Map of the Tisza River</strong></p>
   </div>
