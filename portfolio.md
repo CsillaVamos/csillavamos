@@ -13,7 +13,7 @@ title: Portfolio
     <a href="projects/deer_corridor.md">
       <img src="assets/images/deer_corridor.png" style="width: 100%; max-width: 300px;">
     </a>
-    <p><strong>Most Optimal Deer Movement Corridor in the Renkums Beekdal</strong></p>
+    <p><strong>Optimal Deer Movement Corridor</strong></p>
   </div>
 
   <div style="text-align: center;">
@@ -25,7 +25,7 @@ title: Portfolio
 
   <div style="text-align: center;">
     <a href="projects/almeria_NDVI.md">
-      <img src="assets/images/almeria_NDVI.png" style="width: 100%; max-width: 300px;">
+      <img src="assets/images/almeria_NDVI_thumb.png" style="width: 100%; max-width: 300px;">
     </a>
     <p><strong>Change in Greenness in Almería, Spain</strong></p>
   </div>
@@ -41,7 +41,7 @@ title: Portfolio
     <a href="projects/banana_farm.md">
       <img src="assets/images/MS_internship_actual_yield.png" style="width: 100%; max-width: 300px;">
     </a>
-    <p><strong>Modelling the Banana Yield on a Farm</strong></p>
+    <p><strong>Modelling Banana Yield on a Farm</strong></p>
   </div>
 
   <div style="text-align: center;">
