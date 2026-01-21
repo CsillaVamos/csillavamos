@@ -15,9 +15,9 @@ Every ten years, the Hungarian Scout Association organizes a ten day camping tri
 This map was designed with the questions in mind: Where does the camping trip start and end, what is in the local surroundings, and where will camp be set up each night? 
 
 ## Data
--Basemap in ArcGIS Pro
--Hungarian guide books and maps of the local areas
--camping trip information provided by the Hungarian Scout Association.
+- Basemap in ArcGIS Pro
+- Hungarian guide books and maps of the local areas
+- camping trip information provided by the Hungarian Scout Association.
 
 
 ## Methods
