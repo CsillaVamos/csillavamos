@@ -24,11 +24,11 @@ I am interested in how GIS technology can help societies assess and meet challen
 - Spatial analysis & modeling
 - R (sf, terra, tidyverse)
 
-**Core skills**
+**Core skills:**
 - Spatial analysis & modeling
 - Desktop GIS workflows
 - Reproducible analysis in R
 
 👉 [View Portfolio →](portfolio.md)
 
-📄 [Download CV](/assets/images/resume.pdf)
+
