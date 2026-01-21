@@ -7,7 +7,13 @@ title: Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon
 
 *Project made for thesis in Master of Geo-information Science, in conjuction with the GasDrive project*
 
-![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/healthcare_access.png)
+![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/MS_thesis_shipping_routes.png)
+
+![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/MS_thesis_DIC_sampling_sites.png)
+
+![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/MS_thesis_CO2_sensitivity.png)
+
+![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/MS_thesis_CO2_sensitivity_and_industrial_era.png)
 
 ## Project desciption
 Carbon dioxide (CO2) emissions from anthropological sources raise atmospheric and oceanic CO2 levels and contribute to ocean acidification. The [GasDrive project]((https://research.wur.nl/en/projects/gasdrive-kb-24-003-011/)) hopes to contribute to efforts to curb CO2 emissions by a novel ship design. However, it is possible that this new ship design may still contribute to local CO2 emissions in the water, which may lead to ocean acidification. 
