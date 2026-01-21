@@ -6,5 +6,4 @@ markdown: kramdown
 
 header_pages:
   - portfolio.md
-  - about.md
   - contact.md
