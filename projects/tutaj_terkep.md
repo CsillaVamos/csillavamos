@@ -3,9 +3,7 @@ layout: page
 title: Illustrated map for Hungarian Scout camping trip along the Tisza river in Hungary
 ---
 
-# Illustrated map for Hungarian Scout camping trip along the Tisza river in Hungary, 
-
-*made for the Hungarian Scout Association (Magyar Cserkészszövetség)*
+*Made for the Hungarian Scout Association (Magyar Cserkészszövetség)*
 
 ![Illustrated map for Hungarian Scout camping trip along the Tisza river in Hungary](../assets/images/Tutaj_terkep.png)
 
