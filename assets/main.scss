@@ -36,6 +36,13 @@ a:hover {
   color: #ffffff;
 }
 
+
+/* Always show all nav links */
+.site-nav .page-link {
+  display: inline-block !important;
+}
+
+
 /* Navigation links */
 .site-nav .page-link {
   color: #ffffff;
