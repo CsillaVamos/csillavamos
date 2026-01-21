@@ -3,11 +3,11 @@ layout: page
 title: Suitable Locations for Weather Stations in the Amazonía Region of Ecuador
 ---
 
-# Suitable Locations for Weather Stations in the Amazonía Region of Ecuador
+*Made for the course Advanced Geo-information Science for Earth and Environment, Wageningen University and Research*
+
 
 ![Suitable Locations for Weather Stations in the Amazonía Region of Ecuador](../assets/images/weather_station_suitability.png)
 
-*Made for the course Advanced Geo-information Science for Earth and Environment, Wageningen University and Research*
 
 ## Project description
 The objective was to determine suitable locations for weather stations, taking into account accessibility and representation of different climate conditions. 
