@@ -1,27 +1,37 @@
 ---
 layout: page
-title: Healthcare Accessibility Analysis
+title: Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data
 ---
 
-# Healthcare Accessibility Analysis
+# Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data
 
-![Healthcare accessibility map](../assets/images/healthcare_access.png)
+*Project made for thesis in Master of Geo-information Science, in conjuction with the GasDrive project*
 
-## Problem
-Evaluate access to primary healthcare facilities to identify underserved populations.
+![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/healthcare_access.png)
+
+## Project desciption
+Carbon dioxide (CO2) emissions from anthropological sources raise atmospheric and oceanic CO2 levels and contribute to ocean acidification. The [GasDrive project]((https://research.wur.nl/en/projects/gasdrive-kb-24-003-011/)) hopes to contribute to efforts to curb CO2 emissions by a novel ship design. However, it is possible that this new ship design may still contribute to local CO2 emissions in the water, which may lead to ocean acidification. 
+
+The goal of this thesis was to estimate where marine areas sensitive to an increase of CO2 are located. The study area was the North Pacific Ocean and parts of the Indian, Atlantic, and Arctic oceans. 
+
 
 ## Data
-- Census demographics
-- Clinic locations
-- Road network data
+-Dissolved Inorganic Carbon (DIC) datasets
+-Carbon dioxide (CO2) datasets
+-shipping route data
 
 ## Methods
-- Network-based service area analysis
-- Population-weighted accessibility metrics
+-Sensitivity to CO2 was measured taking two variables into account: Dissolved Inorganic Carbon (DIC) and cargo shipping routes. 
+-DIC datasets from different months were used to estimate DIC in the study area using cokriging. These DIC estimations were compared to another researcher’s DIC estimations in an overlapping region to assess accuracy. 
+-CO2 sensitivity in the study area was assessed two ways: 1)By creating a present day CO2 sensitivity map based on present day DIC levels estimations and shipping routes, and 2) By creating a map that showed the change in CO2 sensitivity in the study area between present day and preindustrial eras. 
+-The map showing current CO2 sensitivity was compared to a global map of aragonite saturation, which measured the study area’s vulnerability to CO2 increase and to ocean acidification. 
+-Shipping routes, their location and the impact that they may have to the sensitivity of a marine area were also explored.
 
 ## Tools
-- ArcGIS Pro
-- R (sf)
+- ArcGIS
+- model builder
 
 ## Outcome
-Identified priority neighborhoods outside a 10-minute drive to care, supporting facility planning decisions.
+The maps and results of this study are valuable for determining where sensitive areas in the ocean are located so that steps can be taken to avoid additional CO2 emissions in these areas to prevent the increase of ocean acidification. 
+
+
