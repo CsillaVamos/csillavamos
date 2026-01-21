@@ -5,7 +5,6 @@ theme: minima
 markdown: kramdown
 
 header_pages:
-  - index.md
   - portfolio.md
   - about.md
   - contact.md
