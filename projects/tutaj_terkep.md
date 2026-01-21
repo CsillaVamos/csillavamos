@@ -30,5 +30,5 @@ Area of interest was marked in a base map in ArcGIS Pro, and transferred to Krit
 - R (sf)
 
 ## Outcome
-An illustrated historical map of a region of the Tisza river in Hungary, that the scouts used during thier ten day camping trip to know where camping events will occur and to be familiar with their local surroundings.
+An illustrated, anitque-style historical map of a region of the Tisza river in Hungary, that the scouts used during thier ten day camping trip to know where camping events will occur and to be familiar with their local surroundings.
 
