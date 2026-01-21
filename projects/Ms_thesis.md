@@ -21,16 +21,16 @@ The goal of this thesis was to estimate where marine areas sensitive to an incre
 
 
 ## Data
--Dissolved Inorganic Carbon (DIC) datasets
--Carbon dioxide (CO2) datasets
--shipping route data
+- Dissolved Inorganic Carbon (DIC) datasets
+- Carbon dioxide (CO2) datasets
+- shipping route data
 
 ## Methods
--Sensitivity to CO2 was measured taking two variables into account: Dissolved Inorganic Carbon (DIC) and cargo shipping routes. 
--DIC datasets from different months were used to estimate DIC in the study area using cokriging. These DIC estimations were compared to another researcher’s DIC estimations in an overlapping region to assess accuracy. 
--CO2 sensitivity in the study area was assessed two ways: 1)By creating a present day CO2 sensitivity map based on present day DIC levels estimations and shipping routes, and 2) By creating a map that showed the change in CO2 sensitivity in the study area between present day and preindustrial eras. 
--The map showing current CO2 sensitivity was compared to a global map of aragonite saturation, which measured the study area’s vulnerability to CO2 increase and to ocean acidification. 
--Shipping routes, their location and the impact that they may have to the sensitivity of a marine area were also explored.
+- Sensitivity to CO2 was measured taking two variables into account: Dissolved Inorganic Carbon (DIC) and cargo shipping routes. 
+- DIC datasets from different months were used to estimate DIC in the study area using cokriging. These DIC estimations were compared to another researcher’s DIC estimations in an overlapping region to assess accuracy. 
+- CO2 sensitivity in the study area was assessed two ways: 1)By creating a present day CO2 sensitivity map based on present day DIC levels estimations and shipping routes, and 2) By creating a map that showed the change in CO2 sensitivity in the study area between present day and preindustrial eras. 
+- The map showing current CO2 sensitivity was compared to a global map of aragonite saturation, which measured the study area’s vulnerability to CO2 increase and to ocean acidification. 
+- Shipping routes, their location and the impact that they may have to the sensitivity of a marine area were also explored.
 
 ## Tools
 - ArcGIS
