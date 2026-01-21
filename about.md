@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![self_portrait](../assets/images/selfportrait.png)
+![selfportrait](../assets/images/selfportrait.png)
 
 # About Me
 I developed my GIS skills and experience during my masters in Geo-information Science at Wageningen University and PhD at Utrecht University, both renowned institutions in the Netherlands. During these nine years, I learned how to solve multidisciplinary and complex issues using GIS, geoinformatics, remote sensing, and coding. I learned how to collect, manage, analyze, and present spatial data using various tools and methods.
