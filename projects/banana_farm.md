@@ -1,27 +1,32 @@
 ---
 layout: page
-title: Healthcare Accessibility Analysis
+title: Modelling the yield of bananas on a farm in Ecuador
 ---
 
-# Healthcare Accessibility Analysis
+# Modelling the yield of bananas on a farm in Ecuador
 
-![Healthcare accessibility map](../assets/images/healthcare_access.png)
+*made for Master of Geo-information Science internship project and Eaglesensing*
 
-## Problem
-Evaluate access to primary healthcare facilities to identify underserved populations.
+![Modelling the yield of bananas on a farm in Ecuador](../assets/images/healthcare_access.png)
+
+## Project description
+The goal of this project was to develop a banana yield model for an Eaglesening client for their banana farm in Ecuador using available data. This project involved studying the relationships between accessible data on environmental variables and data on past yields for this farm. 
+
+
 
 ## Data
-- Census demographics
-- Clinic locations
-- Road network data
+-cumulative rainfall datasets
+-crop age datasets
+-waterlogging datasets
+-NDVI datasets
+-tree location datasets
 
 ## Methods
-- Network-based service area analysis
-- Population-weighted accessibility metrics
+Datasets of the trees and water loggining were cleaned. The model was built using multilinear regression with the datasets as inputs, with various revision rounds. Model was compared to previous banana yields, and difference between predicted yield and actual yield was also calculated. 
 
 ## Tools
-- ArcGIS Pro
-- R (sf)
+- ArcGIS 
+- R 
 
 ## Outcome
-Identified priority neighborhoods outside a 10-minute drive to care, supporting facility planning decisions.
+The outcome of the model was successful with predicting yields within an acceptable range of possible values. 
