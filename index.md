@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-# Your Name
+# Csilla Vámos
 
 **Spatial analyst specializing in short-term desktop GIS and spatial analysis projects.**
 
