@@ -16,23 +16,23 @@ In this region only seven weather stations currently exist and are located along
 
 
 ## Data
--seasonal precipitation sum, precipitation zones
--NDVI
--atmospheric water vapour
--soil humidity 
--average cloud fraction, monthly average cloud temperature
--vector maps of roads, rivers, and settlements
+- seasonal precipitation sum, precipitation zones
+- NDVI
+- atmospheric water vapour
+- soil humidity 
+- average cloud fraction, monthly average cloud temperature
+- vector maps of roads, rivers, and settlements
 
 
 ## Methods
--To determine areas that are most accessible, various operations on appropriate datasets (shapefiles and a DEM) were performed using model builder in ArcGIS. 
--To determine which of the suitable areas are representative of regional climates, conditional Latin Hypercube sampling (cLHS, a sampling method that preserves as much input data variability as possible) was used. 
--Within ArcGIS, tools were used to combine datasets, classify, determine color schemes, and determine map design. 
+- To determine areas that are most accessible, various operations on appropriate datasets (shapefiles and a DEM) were performed using model builder in ArcGIS. 
+- To determine which of the suitable areas are representative of regional climates, conditional Latin Hypercube sampling (cLHS, a sampling method that preserves as much input data variability as possible) was used. 
+- Within ArcGIS, tools were used to combine datasets, classify, determine color schemes, and determine map design. 
 
 
 ## Tools
 - ArcGIS
-- 
+  
 
 ## Outcome
 Identifies suitable locations to build new weather stations, taking into account accessibility and representation of different climate conditions. 
