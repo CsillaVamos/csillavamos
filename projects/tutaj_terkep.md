@@ -21,8 +21,7 @@ This map was designed with the questions in mind: Where does the camping trip st
 
 
 ## Methods
--area of interest was marked in based map of ArcGIS Pro, and transferred to Krita. Using local map guides of the area, locations of interest where emphasized, and artistic details were created.
--Geographically correct land-use, town locations, and river location was balanced with aesthetically pleasing and comprehensible map with artistic details relevant for the camp theme.
+Area of interest was marked in a base map in ArcGIS Pro, and transferred to Krita, a digital drawing program. Using local map guides of the area, locations of interest where emphasized and artistic details were created. During the multiple revisions, geographically correct land-use, town locations, and river location was balanced with aesthetically pleasing and comprehensible map with artistic details relevant for the camp theme.
 
  
 
