@@ -3,9 +3,7 @@ layout: page
 title: Modelling the yield of bananas on a farm in Ecuador
 ---
 
-# Modelling the yield of bananas on a farm in Ecuador
-
-*made for Master of Geo-information Science internship project and Eaglesensing*
+*Made for Master of Geo-information Science internship project and Eaglesensing*
 
 ![Modelling the yield of bananas on a farm in Ecuador](../assets/images/MS_internship_actual_yield.png)
 
