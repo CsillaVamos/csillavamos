@@ -7,7 +7,12 @@ title: Modelling the yield of bananas on a farm in Ecuador
 
 *made for Master of Geo-information Science internship project and Eaglesensing*
 
-![Modelling the yield of bananas on a farm in Ecuador](../assets/images/healthcare_access.png)
+![Modelling the yield of bananas on a farm in Ecuador](../assets/images/MS_internship_actual_yield.png)
+
+![Modelling the yield of bananas on a farm in Ecuador](../assets/images/MS_internship_estimated_yield.png)
+
+![Modelling the yield of bananas on a farm in Ecuador](../assets/images/MS_internship_yield_difference.png)
+
 
 ## Project description
 The goal of this project was to develop a banana yield model for an Eaglesening client for their banana farm in Ecuador using available data. This project involved studying the relationships between accessible data on environmental variables and data on past yields for this farm. 
