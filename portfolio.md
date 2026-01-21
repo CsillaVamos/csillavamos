@@ -31,7 +31,7 @@ title: Portfolio
   </div>
 
   <div style="text-align: center;">
-    <a href="projects/MS_thesis">
+    <a href="projects/Ms_thesis">
       <img src="assets/images/MS_thesis_CO2_sensitivity.png" style="width: 100%; max-width: 300px;">
     </a>
     <p><strong>Mapping CO₂ Sensitive Areas in the Ocean</strong></p>
@@ -45,7 +45,7 @@ title: Portfolio
   </div>
 
   <div style="text-align: center;">
-    <a href="projects/Tutaj_terkep">
+    <a href="projects/tutaj_terkep">
       <img src="assets/images/Tutaj_terkep.png" style="width: 100%; max-width: 300px;">
     </a>
     <p><strong>Illustrated, Antique-Style Map of the Tisza River</strong></p>
