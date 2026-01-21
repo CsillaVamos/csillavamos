@@ -3,7 +3,7 @@ layout: page
 title: Csilla Vamos
 ---
 
-<img src="/assets/images/pictureofme.png"
+<img src="../assets/images/pictureofme.png"
      alt="Picture of me"
      style="
        float: left;
