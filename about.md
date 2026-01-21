@@ -20,4 +20,4 @@ My work emphasizes:
 - Spatial analysis & modeling
 - R (sf, terra, tidyverse)
 
-📄 [Download CV](assets/pdf/resume.pdf)
+📄 [Download CV](/assets/pdf/resume.pdf)
