@@ -3,8 +3,6 @@ layout: page
 title: Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data
 ---
 
-# Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data
-
 *Project made for thesis in Master of Geo-information Science, in conjuction with the GasDrive project*
 
 ![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/MS_thesis_shipping_routes.png)
