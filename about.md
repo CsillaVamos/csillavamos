@@ -10,12 +10,12 @@ I developed my GIS skills and experience during my masters in Geo-information Sc
 
 I am interested in how GIS technology can help societies assess and meet challenges such as climate change and global urbanization. I enjoy applying my skills and knowledge in GIS to my passion of studying and improving cities and societies' functions, and my skills and experience with data handling to translate complex data concepts into structured, reusable knowledge. I focus on applied spatial analysis for research, environmental, and planning projects.
 
-My work emphasizes:
+**My work emphasizes:**
 - Clear analytical reasoning
 - Reproducible workflows
 - Decision-support mapping
 
-**Tools & Methods**
+**Tools & Methods:**
 - ArcGIS Pro, QGIS
 - Spatial analysis & modeling
 - R (sf, terra, tidyverse)
