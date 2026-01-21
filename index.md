@@ -5,8 +5,6 @@ title: Csilla Vamos
 
 ![picture of me](/assets/images/pictureofme.png)
 
-float: right;
-margin: 0 0 1rem 1.5rem;
 
 **Spatial analyst specializing in short-term desktop GIS and spatial analysis projects.**
 
