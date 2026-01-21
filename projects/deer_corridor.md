@@ -4,7 +4,7 @@ title: Most Optimal Deer Movement Corridor in the Renkums Beekdal
 ---
 *Made for the course Geo-information Tools, Wageningen University and Research*
   
-# Most Optimal Deer Movement Corridor in the Renkums Beekdal
+
 
 ![Most Optimal Deer Movement Corridor in the Renkums Beekdal](../assets/images/deer_corridor.png)
 
