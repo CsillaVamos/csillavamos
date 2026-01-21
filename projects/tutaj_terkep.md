@@ -10,14 +10,14 @@ title: Map for Hungarian Scout camping trip along the Tisza river in Hungary
 ![Map for Hungarian Scout camping trip along the Tisza river in Hungary](../assets/images/tutaj_terkep.png)
 
 ## Project description
-Every ten years, the Hungarian Scout Association organizes a ten day camping trip for Hungarian scout troops around the world. The scouts first build rafts, and then row down the river, experiencing exposure to Hungarian history, culture and language. The theme for this camping trip was the Hungarian conquest of the Carpathian Basin, which occurred between 895 and 900 AD. The design and artistic details of this map reflects this time period.
+Every ten years, the Hungarian Scout Association organizes a ten day camping trip for Hungarian scout troops around the world. The scouts first build rafts, and then row down the Tisza river, experiencing exposure to Hungarian history, culture and language. The theme for this camping trip was the Hungarian conquest of the Carpathian Basin, which occurred between 895 and 900 AD. The design and artistic details of this map reflects this time period.
 
-This map was designed with the questions in mind: Where does the camping trip start and end, what is in the local surroundings and where will camp be set up each night? 
+This map was designed with the questions in mind: Where does the camping trip start and end, what is in the local surroundings, and where will camp be set up each night? 
 
 ## Data
 -Basemap in ArcGIS Pro
 -Hungarian guide books and maps of the local areas
--Miscellaneous information provided by the Hungarian Scout Association.
+-camping trip information provided by the Hungarian Scout Association.
 
 
 ## Methods
