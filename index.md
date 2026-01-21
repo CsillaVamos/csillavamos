@@ -3,14 +3,8 @@ layout: page
 title: Csilla Vamos
 ---
 
-<img src="/assets/images/pictureofme.png"
-     alt="Picture of me"
-     style="
-       float: left;
-       width: 220px;
-       margin: 0 1.5rem 1rem 0;
-       border-radius: 6px;
-     ">
+![picture of me](/assets/images/pictureofme.png)
+
 
 
 **Spatial analyst specializing in short-term desktop GIS and spatial analysis projects.**
