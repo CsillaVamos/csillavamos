@@ -20,11 +20,11 @@ The goal of this project was to develop a banana yield model for an Eaglesening 
 
 
 ## Data
--cumulative rainfall datasets
--crop age datasets
--waterlogging datasets
--NDVI datasets
--tree location datasets
+- cumulative rainfall datasets
+- crop age datasets
+- waterlogging datasets
+- NDVI datasets
+- tree location datasets
 
 ## Methods
 Datasets of the trees and water loggining were cleaned. The model was built using multilinear regression with the datasets as inputs, with various revision rounds. Model was compared to previous banana yields, and difference between predicted yield and actual yield was also calculated. 
