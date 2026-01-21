@@ -2,7 +2,8 @@
 layout: page
 title: Most Optimal Deer Movement Corridor in the Renkums Beekdal
 ---
-
+*Made for the course Advanced Geo-information Science for Earth and Environment (GRS-33306), Wageningen University and Research*
+  
 # Most Optimal Deer Movement Corridor in the Renkums Beekdal
 
 ![Most Optimal Deer Movement Corridor in the Renkums Beekdal](../assets/images/deer_corridor.png)
