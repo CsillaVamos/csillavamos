@@ -60,7 +60,7 @@ title: Resume
 *Mapping CO₂ Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data*
 
 **Relevant Coursework:**
-- Academic Consultancy Training (in collaboration with CGI Rotterdam; Unity3D & GIS)
+- Academic Consultancy Training group work: In conjunction with CGI’s Rotterdam office, explored the possibilities of using the gaming program Unity3D for GIS purposes. Developed a 3D model of Rotterdam to predict and view the city’s Urban Heat Island effect.
 - Geotools
 - Programming in Python
 - Remote Sensing
@@ -92,21 +92,13 @@ Minor in Latin American and Iberian Studies
 
 ---
 
-## Extracurricular Activities
-
-- **2023:** Created a historic-themed map for a worldwide Hungarian scout camp, used during a 10-day excursion along the Tisza River in Hungary
-
----
-
 ## Skills & Tools
 
 ### Technical Skills
 - ArcGIS / GIS
-- CityEngine
 - QGIS
 - R
 - SQL
-- RDF
 - PhotoScan
 - ErDAS Imagine
 - InDesign
