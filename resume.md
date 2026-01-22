@@ -94,7 +94,6 @@ Minor in Latin American and Iberian Studies
 
 ## 🛠 Skills & Tools
 
-### Technical Skills
 - ArcGIS / GIS
 - QGIS
 - R
@@ -115,8 +114,6 @@ Minor in Latin American and Iberian Studies
 - **Dutch:** Learning
 
 ---
-
-## 📚 Publications
 
 ## 📚 Publications
 
