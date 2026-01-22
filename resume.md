@@ -122,6 +122,6 @@ Vámos, C., Scheider, S., Sonnenschein, T., & Vermeulen, R. (2024).
 *Semantic Web, 15(5), 1733–1761.*
 
 Wei, Y., Kroeze, M., Vámos, C., Foekema, E. M., van Lammeren, R., & Murk, A. J. (2021).  
-**[Relative Risk Assessment of Ecological Areas with the Highest Potential Impact of Underwater Released Exhaust CO₂ from Innovative Ships]([https://www.biorxiv.org/content/10.1101/2021.09.13.460115v1](https://research.wur.nl/en/publications/relative-risk-assessment-of-ecological-areas-with-the-highest-pot/))**  
+**[Relative Risk Assessment of Ecological Areas with the Highest Potential Impact of Underwater Released Exhaust CO₂ from Innovative Ships](https://research.wur.nl/en/publications/relative-risk-assessment-of-ecological-areas-with-the-highest-pot/)**  
 *bioRxiv.*
 
