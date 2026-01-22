@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parks exposure: count vs coverage
+title: Parks exposure, count vs coverage
 ---
 *Made for the PhD thesis, Utrecht University*
   
