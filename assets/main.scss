@@ -63,19 +63,22 @@ a:hover {
 .portfolio-grid {
   display: grid;
 
-  /* EXACTLY 3 columns on desktop */
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, 280px); /* 🔹 matches card width */
+  justify-content: center;                 /* 🔹 CENTER GRID */
 
   gap: 1.25rem;
   margin-top: 2rem;
 }
 
+
 .portfolio-card {
-  background-color: #6f8494; /* grey-blue */
+  background-color: #6f8494;
   border-radius: 8px;
 
-  padding: 0.75rem; /* smaller padding */
-  height: 300px;    /* smaller, uniform rectangles */
+  width: 280px;       /* 🔹 FIXED WIDTH */
+  height: 300px;      /* 🔹 FIXED HEIGHT */
+
+  padding: 0.75rem;
 
   display: flex;
   flex-direction: column;
@@ -85,14 +88,15 @@ a:hover {
   margin: 0 auto;
 }
 
+
 /* Images inside cards */
 .portfolio-card img {
-  max-width: 300px;   /* smaller image */
-  max-height: 160px;  /* keeps tall images contained */
+  max-width: 260px;
+  max-height: 160px;
   object-fit: contain;
-
   margin-bottom: 0.5rem;
 }
+
 
 /* Title text */
 .portfolio-card p {
@@ -102,15 +106,21 @@ a:hover {
   font-size: 0.95rem;
 }
 
+@media (max-width: 1200px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(3, 280px);
+  }
+}
+
 @media (max-width: 900px) {
   .portfolio-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 280px);
   }
 }
 
 @media (max-width: 600px) {
   .portfolio-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 280px;
   }
 }
 
