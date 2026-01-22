@@ -56,7 +56,7 @@ title: Portfolio
 
 <div class="portfolio-card">
     <a href="projects/PhD_average_NDVI_per_nbd.png">
-      <img src="assets/images/PhD_NDVI_per_nbd.png" alt="NDVI (greenness) per neighborhood">
+      <img src="assets/images/PhD_average_NDVI_per_nbd.png" alt="NDVI (greenness) per neighborhood">
     </a>
     <p><strong>NDVI (greenness) per neighborhood</strong></p>
   </div>
