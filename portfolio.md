@@ -31,13 +31,6 @@ title: Portfolio
   </div>
 
   <div style="text-align: center;">
-    <a href="projects/PhD_viewshed">
-      <img src="assets/images/PhD_viewshed.png" style="width: 100%; max-width: 300px;">
-    </a>
-    <p><strong>View-shed analysis</strong></p>
-  </div>
-
-  <div style="text-align: center;">
     <a href="projects/Ms_thesis">
       <img src="assets/images/MS_thesis_CO2_sensitivity.png" style="width: 100%; max-width: 300px;">
     </a>
@@ -51,6 +44,20 @@ title: Portfolio
     <p><strong>Modelling Banana Yield on a Farm</strong></p>
   </div>
 
+   <div style="text-align: center;">
+    <a href="projects/PhD_park_coverage">
+      <img src="assets/images/PhD_park_coverage.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>Park covereage vs count</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="projects/PhD_viewshed">
+      <img src="assets/images/PhD_viewshed.png" style="width: 100%; max-width: 300px;">
+    </a>
+    <p><strong>View-shed analysis</strong></p>
+  </div>
+  
   <div style="text-align: center;">
     <a href="projects/tutaj_terkep">
       <img src="assets/images/Tutaj_terkep.png" style="width: 100%; max-width: 300px;">
