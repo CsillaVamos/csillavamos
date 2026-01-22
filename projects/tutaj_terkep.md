@@ -24,8 +24,9 @@ Area of interest was marked in a base map in ArcGIS Pro, and transferred to Krit
  
 
 ## Tools
+- Krita
 - ArcGIS Pro
-- R (sf)
+
 
 ## Outcome
 An illustrated, antique-style historical map of a region of the Tisza river in Hungary, that the scouts used during thier ten day camping trip to know where camping events will occur and to be familiar with their local surroundings.
