@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-## Experience
+## 🧭 Experience
 
 ### PhD Candidate  
 **Human Geography and Spatial Planning, Utrecht University, The Netherlands**  
@@ -50,7 +50,7 @@ title: Resume
 
 ---
 
-## Education
+## 🎓 Education
 
 ### Master in Geo-information Science  
 **Wageningen University and Research, The Netherlands**  
@@ -92,7 +92,7 @@ Minor in Latin American and Iberian Studies
 
 ---
 
-## Skills & Tools
+## 🛠 Skills & Tools
 
 ### Technical Skills
 - ArcGIS / GIS
@@ -108,7 +108,7 @@ Minor in Latin American and Iberian Studies
 - Python
 - Microsoft Word, Excel, PowerPoint, Outlook
 
-### Languages
+## 🌍 Languages
 - **English:** Native  
 - **Spanish:** Conversational  
 - **Hungarian:** Conversational  
@@ -116,12 +116,15 @@ Minor in Latin American and Iberian Studies
 
 ---
 
-## Publications
+## 📚 Publications
+
+## 📚 Publications
 
 Vámos, C., Scheider, S., Sonnenschein, T., & Vermeulen, R. (2024).  
-**Ontology of active and passive environmental exposure.**  
+**[Ontology of active and passive environmental exposure](https://journals.sagepub.com/doi/full/10.3233/SW-243546)**  
 *Semantic Web, 15(5), 1733–1761.*
 
 Wei, Y., Kroeze, M., Vámos, C., Foekema, E. M., van Lammeren, R., & Murk, A. J. (2021).  
-**Relative Risk Assessment of Ecological Areas with the Highest Potential Impact of Underwater Released Exhaust CO₂ from Innovative Ships.**  
+**[Relative Risk Assessment of Ecological Areas with the Highest Potential Impact of Underwater Released Exhaust CO₂ from Innovative Ships]([https://www.biorxiv.org/content/10.1101/2021.09.13.460115v1](https://research.wur.nl/en/publications/relative-risk-assessment-of-ecological-areas-with-the-highest-pot/))**  
 *bioRxiv.*
+
