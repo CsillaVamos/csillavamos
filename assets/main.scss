@@ -63,48 +63,44 @@ a:hover {
 .portfolio-grid {
   display: grid;
 
-  grid-template-columns: repeat(3, 280px); /* 🔹 matches card width */
-  justify-content: center;                 /* 🔹 CENTER GRID */
+  grid-template-columns: repeat(3, 260px); /* 🔽 smaller columns */
+  justify-content: center;
 
-  gap: 1.25rem;
+  gap: 1.75rem; /* 🔼 more space between cards */
   margin-top: 2rem;
 }
-
 
 .portfolio-card {
   background-color: #6f8494;
   border-radius: 8px;
 
-  width: 280px;       /* 🔹 FIXED WIDTH */
-  height: 300px;      /* 🔹 FIXED HEIGHT */
+  width: 260px;   /* 🔽 smaller cards */
+  height: 280px;  /* 🔽 slightly shorter */
 
-  padding: 0.75rem;
+  padding: 0.6rem;
 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
-  margin: 0 auto;
 }
-
 
 /* Images inside cards */
 .portfolio-card img {
-  max-width: 260px;
-  max-height: 160px;
+  max-width: 240px;
+  max-height: 150px;
   object-fit: contain;
   margin-bottom: 0.5rem;
 }
-
 
 /* Title text */
 .portfolio-card p {
   text-align: center;
   margin: 0;
   color: #ffffff;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
+
 
 @media (max-width: 1200px) {
   .portfolio-grid {
