@@ -41,7 +41,7 @@ title: Portfolio
   </div>
 
   <div class="portfolio-card">
-    <a href="projects/PhD_park_coverage">
+    <a href="projects/PhD_parks">
       <img src="assets/images/PhD_park_coverage.png" alt="Park coverage vs count">
     </a>
     <p><strong>Park Coverage vs Count</strong></p>
@@ -55,7 +55,7 @@ title: Portfolio
   </div>
 
 <div class="portfolio-card">
-    <a href="projects/PhD_average_NDVI_per_nbd.png">
+    <a href="projects/PhD_average_NDVI_per_nbd">
       <img src="assets/images/PhD_average_NDVI_per_nbd.png" alt="NDVI (greenness) per neighborhood">
     </a>
     <p><strong>NDVI (greenness) per neighborhood</strong></p>
