@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Csilla Vamos
+title: Csilla Vámos
 ---
 
 ![picture of me](/assets/images/pictureofme.png)
