@@ -16,7 +16,7 @@ The area depicted in this map is situated in the Renkums Beekdal, a nature reser
 - vector maps of land uses, buildings, roads, bodies of water.
 
 ## Methods
-The processing method consisted of carrying out various ArcGIS tools on datasets through model builder in ArcGIS. The model was created in various stages and perfected until the final result shown in the map was produced.Within ArcGIS, tools were used to combine datasets, classify, determine color schemes, and determine map design.
+The processing method consisted of carrying out various ArcGIS tools on datasets through model builder in ArcGIS. The model was created in various stages and perfected until the final result shown in the map was produced. Within ArcGIS, tools were used to combine datasets, classify, determine color schemes, and determine map design.
 
 
 ## Tools
