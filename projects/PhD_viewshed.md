@@ -9,7 +9,7 @@ title: View-shed analysis of NDVI values around points of interest using a 150 m
 
 
 ## Project description
-Perception of green space around a residential area is known to influence health. A view-shed analysis was of various residential addresses throughout the Netherlands were calculated to determine visibile areas within a 150 m radius. NDVI (greenness) levels within this visible part of the area were then calculated. To determine accuaracy of the analysis, results were compared to answers from a survey where participants from the same locations were asked about their perception of greeness in the local surroundings. All buffer centers originated from the street next to a residnetial address, using a height of 1.7 m, the average height of a person. 
+Perception of green space around a residential area is known to influence health. The view-shed analysis consisted of calculating visible areas within a 150 meter radius for residential addresses throughout the Netherlands. NDVI (greenness) levels within this visible part of the area were then calculated. To determine accuaracy of the analysis, results were compared to answers from a survey where participants from the same locations were asked about their perception of greeness in the local surroundings. All buffer centers originated from the street next to a residnetial address, using a height of 1.7 m, the average height of a person. 
 
 
 ## Data
