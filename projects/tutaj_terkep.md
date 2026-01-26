@@ -19,7 +19,7 @@ This map was designed with the questions in mind: Where does the camping trip st
 
 
 ## Methods
-Area of interest was marked in a base map in ArcGIS Pro, and transferred to Krita, a digital drawing program. Using local map guides of the area, locations of interest where emphasized and artistic details were created. During the multiple revisions, geographically correct land-use, town locations, and river location was balanced with aesthetically pleasing and comprehensible map with artistic details relevant for the camp theme.
+Area of interest was marked in a base map in ArcGIS Pro, and transferred to Krita, a digital drawing program. Using local map guides of the area, locations of interest where emphasized and artistic details were created. Geographical accuracy in land use, town locations, and river placement was balanced with visual clarity and artistic elements relevant to the camp theme.
 
  
 
@@ -29,5 +29,5 @@ Area of interest was marked in a base map in ArcGIS Pro, and transferred to Krit
 
 
 ## Outcome
-An illustrated, antique-style historical map of a region of the Tisza river in Hungary, that the scouts used during thier ten day camping trip to know where camping events will occur and to be familiar with their local surroundings.
+An illustrated, antique-style historical map of a region of the Tisza river in Hungary, that the scouts used during their ten day camping trip to know where camping events will occur and to be familiar with their local surroundings.
 
