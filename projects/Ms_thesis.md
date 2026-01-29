@@ -12,7 +12,7 @@ title: Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon
 ![Mapping CO2 Sensitive Areas in the Ocean Using Dissolved Inorganic Carbon and Shipping Route Data](../assets/images/MS_thesis_CO2_sensitivity_and_industrial_era.png)
 
 
-## Project desciption
+## Project description
 Carbon dioxide (CO2) emissions from anthropological sources raise atmospheric and oceanic CO2 levels and contribute to ocean acidification. The [GasDrive project]((https://research.wur.nl/en/projects/gasdrive-kb-24-003-011/)) hopes to contribute to efforts to curb CO2 emissions by a novel ship design. However, it is possible that this new ship design may still contribute to local CO2 emissions in the water, which may lead to ocean acidification. 
 
 The goal of this thesis was to estimate where marine areas sensitive to an increase of CO2 are located. The study area was the North Pacific Ocean and parts of the Indian, Atlantic, and Arctic oceans. 
