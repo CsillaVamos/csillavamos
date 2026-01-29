@@ -16,7 +16,7 @@ Finding the average NDVI value per neighborhood boundary is one way to measure h
 - neighborhood boundaries
 
 ## Methods
-- Calculating the average NDVI value per neigborhood boundary.
+- Calculating the average NDVI value per neighborhood boundary.
 
 
 ## Tools
@@ -24,4 +24,4 @@ Finding the average NDVI value per neighborhood boundary is one way to measure h
   
 
 ## Outcome
-Average NDVI value per neighborhood bounary in Utrecht, higher values indicate more greenery in the area.
+Average NDVI value per neighborhood boundary in Utrecht, higher values indicate more greenery in the area.
