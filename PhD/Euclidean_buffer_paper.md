@@ -27,6 +27,8 @@ The results showed that Euclidean buffer size substantially affected certain env
 
 Overall, this study demonstrates that exposure assessment is highly sensitive to choices in spatial representation of environmental factors and spatial context definition. Future work should develop guidelines that take into account characteristics of environmental factors, data spatial representation, and spatial context definition, ideally validated against ground-truth sources such as sensor-based measurements or health surveys. Careful consideration of these methodological factors is necessary to avoid misinterpretation of results and to improve the reliability of  exposure findings.
 
+👉 [View Results →](Euclidean_buffer_paper_results.md)
+
 
 ## Results
 ![INSERTNAME](../assets/images/INSERTNAME.png)
