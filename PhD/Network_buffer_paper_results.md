@@ -10,7 +10,7 @@ title: Results
 
 
 ## Examples of two measurement methods: Euclidean buffer (blue circle) and convex hull network buffer (green polygon).
-![measurement methods examples](../assets/images/PhD_images/measurement_methods_examples.png)
+![measurement methods examples](../assets/images/PhD_images/diff_types_of_m_methods.png)
 
 ## Results table
 ![results table](../assets/images/PhD_images/results_table.png)
