@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Perceived Green and Blue Space, Spatial Scale, and Health: A Comparative Assessment of Exposure Metrics
+title: Perceived Green and Blue Space, Spatial Scale, and Health A Comparative Assessment of Exposure Metrics
 ---
 
  ## Abstract
