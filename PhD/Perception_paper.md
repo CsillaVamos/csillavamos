@@ -11,8 +11,8 @@ title: Perceived Green and Blue Space, Spatial Scale, and Health. A Comparative 
  ## Data
 - data on various green space environmental factors including NDVI, parks, land-use areas categorized as green space
 - blue space data
-- survey answers on green-blue space perception in local surroundings
 - street view images
+- survey answers on green-blue space perception in local surroundings
 
 ## Methods
 - GIS transformations and preparation of data, both for vector a raster datasets 
