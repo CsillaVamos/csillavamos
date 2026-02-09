@@ -5,7 +5,7 @@ title: Results
 *How Spatial Scale and Collinearity Influence Environmental Exposure Models*
   
 
-## Different types of spatial dataset types
+## Different types of spatial data, shown in the city of Amsterdam, the Netherlands as an example.
 ![core concept types](../assets/images/PhD_images/figure1_core_concepts5.png)
 
 
