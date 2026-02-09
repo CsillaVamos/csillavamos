@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Results
+title: Results
 ---
 *How Spatial Scale and Collinearity Influence Environmental Exposure Models*
   
