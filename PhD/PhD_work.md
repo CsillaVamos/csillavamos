@@ -27,10 +27,13 @@ This thesis has demonstrated that data characteristics, geospatial concepts, and
 logical specification of exposure models with systematic empirical analyses, this thesis revealed how variations in spatial data representations and methodological choices of context measurements can substantially
 influence exposure estimates. The results emphasise that understanding and explicitly accounting for GIS-related phenomena such as MAUP is essential to achieving reliable exposure assessments. Furthermore, this thesis suggests a conceptual and methodological start for bridging the gap between epidemiology and geoinformation science, underscoring the importance of interdisciplinary integration for advancing exposome research. Ultimately, this work highlights that improved awareness of spatial concepts and their methodological implications leads to more accurate, transparent, and meaningful exposure assessment in environmental epidemiology.
 
+
 ## View papers
-👉 [Euclidean buffer paper](Euclidean_buffer_paper.md)
-👉 [Network buffer paper →](Network_buffer_paper.md)
-👉 [Perception paper →](Perception_paper.md)
+👉 [How Spatial Scale and Collinearity Influence Environmental Exposure Models](Euclidean_buffer_paper.md)
+👉 [The role of spatial context definitions for environmental factors](Network_buffer_paper.md)
+👉 [Modelling the perception of green and blue space using different definitions of spatial context](Perception_paper.md)
+
+
 
 
 ## References
