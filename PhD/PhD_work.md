@@ -52,6 +52,8 @@ representation, spatial context measurement methods, as well as their
 relationships to epidemiological concepts such as activities, person, loc-
 ation, and the way exposure is quantified.
 
+![View-shed analysis of NDVI values around points of interest using a 150 meter buffer](../assets/images/PhD_images/overall thesis relations.png)
+
 ###Conclusion
 This thesis has demonstrated that data characteristics, geospatial concepts, and spatial context measurement methods fundamentally shape exposure modelling in environmental epidemiology. By combining onto-
 logical specification of exposure models with systematic empirical analyses, this thesis revealed how variations in spatial data representations and methodological choices of context measurements can substantially
