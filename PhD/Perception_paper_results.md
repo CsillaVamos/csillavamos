@@ -5,20 +5,15 @@ title: Results
 *Perceived Green and Blue Space, Spatial Scale, and Health. A Comparative Assessment of Exposure Metrics*
   
 
-## Different types of spatial data, shown in the city of Amsterdam, the Netherlands as an example.
-![core concept types](../assets/images/PhD_images/figure1_core_concepts5.png)
+## Partial Spearman correlations for each survey question and for each model result are shown. The highest performing values are in bold.
+![table3](../assets/images/PhD_images/table3.png)
 
 
-
-## Heatmaps of Pearson correlation values
-![Heatmap of 100 meter buffer with all variables](../assets/images/PhD_images/heatmap_100mbuf_all_variables.png)
-
+## Ordinal regression results
+![tables_4to7](../assets/images/PhD_images/tables_4to7.png)
 
 
 
 
-
-## Network graphs
-![Network graph of 100 buffer with all variables](../assets/images/PhD_images/networkgraph_100m_0.7pc_values.png)
 
 
