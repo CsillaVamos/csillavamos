@@ -30,7 +30,9 @@ influence exposure estimates. The results emphasise that understanding and expli
 
 ## View papers
 👉 [How Spatial Scale and Collinearity Influence Environmental Exposure Models](Euclidean_buffer_paper.md)
+
 👉 [The role of spatial context definitions for environmental factors](Network_buffer_paper.md)
+
 👉 [Modelling the perception of green and blue space using different definitions of spatial context](Perception_paper.md)
 
 
