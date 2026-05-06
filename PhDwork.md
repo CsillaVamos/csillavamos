@@ -19,7 +19,7 @@ In environmental epidemiology, the relationships between people, the environment
 using ground truth data on perceived green-blue space. This contributes to a better understanding of the relevance of the combination of spatial representations and spatial context measurements.
 Results underscore the importance of considering the type of geospatial representation, spatial context measurement methods, as well as their relationships to epidemiological concepts such as activities, person, location, and the way exposure is quantified.
 
-![overall_thesis_relations](../assets/images/PhD_images/overall_thesis_relations.png)
+![overall_thesis_relations](/assets/images/PhD_images/overall_thesis_relations.png)
 
 
 ## Conclusion
