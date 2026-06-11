@@ -6,7 +6,7 @@ title: Csilla Vámos
 ![picture of me](/assets/images/pictureofme.png)
 
 
-**Spatial analyst specializing in short-term desktop GIS and spatial analysis projects.**
+**Spatial analyst specializing in desktop GIS and spatial analysis projects.**
 
 I support research, planning, and consulting teams with clear, decision-focused spatial analysis using ArcGIS Pro, QGIS, and R.
 
