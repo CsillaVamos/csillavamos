@@ -13,7 +13,10 @@ title: Analysis of hihi bird population in Zealandia, New Zealand
 
 
 ## Project description
-This project explored the spatial patterns seen in the nesting data for hihi (Notiomystis cincta) in Zealandia Te Māra a Tāne, a fenced ecosanctuary in Wellington, New Zealand. Analyses focus on the number of fledglings raised in five periods, each ranging four to five years, starting in 2005 when hihi were reintroduced to the sanctuary. Goals of this study were to 1)	Create maps showing local high and low nesting success per site over the past 21 years, and 2)	Create maps showing where ideal nesting sites across the entirety of Zealandia are, based on  predictions of degree of success (number of fledglings raised) and several environmental factors.
+This project explored the spatial patterns seen in the nesting data for hihi (Notiomystis cincta) in Zealandia Te Māra a Tāne, a fenced ecosanctuary in Wellington, New Zealand. Analyses focus on the number of fledglings raised in five periods, each ranging four to five years, starting in 2005 when hihi were reintroduced to the sanctuary. Goals of this study were to
+
+1)	Create maps showing local high and low nesting success per site over the past 21 years
+2)	Create maps showing where ideal nesting sites across the entirety of Zealandia are, based on  predictions of degree of success (number of fledglings raised) and several environmental factors.
 
 ## Data
 - hihi nesting data
