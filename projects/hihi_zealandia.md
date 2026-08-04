@@ -49,4 +49,4 @@ The findings from these maps provide a visual record of the degree of nesting su
 
 The Random Forest analysis revealed that some environmental characteristics were associated with nesting success, however the degree of importance of each environmental characteristic varied substantially between each period. 
 
-The maps and the findings in this report can aid biologists and conservationists in their efforts in monitoring hihis’ nesting success in Zealandia.
+The maps and the findings in these maps and the accompanying report can aid biologists and conservationists in their efforts in monitoring hihis’ nesting success in Zealandia.
