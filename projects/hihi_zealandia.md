@@ -9,7 +9,7 @@ title: Analysis of hihi bird population in Zealandia, New Zealand
 
 ![change in hotspot map](../assets/images/site hot spots with labels.png)
 
-![Prediction map](../assets/images/Random Forest site maps.png)
+![Prediction map](/assets/images/Random Forest site maps.png)
 
 
 ## Project description
