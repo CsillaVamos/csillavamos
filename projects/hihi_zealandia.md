@@ -21,7 +21,7 @@ This project explored the spatial patterns seen in the nesting data for an endan
 
 
 ## Data
-- hihi nesting data
+-  21 years of hihi nesting data
   
 For the prediction maps:
 - Distance to the nearest water body (m)
@@ -38,7 +38,7 @@ For the local hot and cold spots maps and change in hot spots map:
 k-nearest neighbor method and Gi* statistics per period were used to visualize and study the degree of each nesting site’s success. 
 
 For the Prediction maps:
-To predict nesting success of locations within the sanctuary along with statistics, a Random Forest method was applied for each period. Prediction maps were made per period rather than one map for the entire 20 years to stabilize results. 
+To predict nesting success of locations within the sanctuary along with statistics, a Random Forest method was applied for each period. Prediction maps were made per period rather than one map for the entire 21 years to stabilize results. 
 
 ## Tools
 - ArcGIS 
