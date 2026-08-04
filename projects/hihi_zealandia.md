@@ -5,9 +5,9 @@ title: Analysis of hihi bird population in Zealandia, New Zealand
 
 *Made in collaboration with the Kaori Sanctuary Trust*
 
-![hotspot maps](../assets/images/change in hot spots.png)
+![hotspot maps](../assets/images/change_in_hot_spots_all_sites.png)
 
-![change in hotspot map](../assets/images/site hot spots with labels.png)
+![change in hotspot map](../assets/images/site_hot_spots_all_sites.png)
 
 ![Prediction map](../assets/images/Random_Forest_site_maps.png)
 
