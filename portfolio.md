@@ -69,4 +69,11 @@ title: Portfolio
     <p><strong>Illustrated, Antique-Style Map of the Tisza River</strong></p>
   </div>
 
+  <div class="portfolio-card">
+    <a href="projects/hihi_zealandia">
+      <img src="assets/images/change_in_hot_spots_all_sites.png" alt="change in hot spots all sites">
+    </a>
+    <p><strong>Hihi bird population study Zealandia</strong></p>
+  </div>
+
 </div>
