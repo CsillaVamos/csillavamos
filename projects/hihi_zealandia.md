@@ -9,9 +9,7 @@ title: Analysis of hihi bird population in Zealandia, New Zealand
 
 ![change in hotspot map](../assets/images/site hot spots with labels.png)
 
-![Prediction map](/assets/images/Random Forest site maps.png)
-
-![Modelling the yield of bananas on a farm in Ecuador](../assets/images/MS_internship_yield_difference.png)
+![Prediction map](../assets/images/Random_Forest_site_maps.png)
 
 
 ## Project description
