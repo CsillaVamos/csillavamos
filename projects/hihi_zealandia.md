@@ -54,6 +54,6 @@ The maps and the findings in these maps and the accompanying report can aid biol
 ## Report
 Further information on how and why these methodologies were chosen to create these maps, as well as accompanying statistics, can be found in the report. 
 
-<a href="../assets/PDFs/Hihi_report.pdf" target="_blank">
+<a href="../assets/PDFs/Hihi_Report.pdf" target="_blank">
     View the Report
 </a>
