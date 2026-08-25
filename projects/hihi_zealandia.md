@@ -38,7 +38,7 @@ For the local hot and cold spots maps and change in hot spots map:
 k-nearest neighbor method and Gi* statistics per period were used to visualize and study the degree of each nesting site’s success. 
 
 For the Prediction maps:
-To predict nesting success of locations within the sanctuary along with statistics, a Random Forest method was applied for each period. Prediction maps were made per period rather than one map for the entire 21 years to stabilize results. 
+To predict nesting success of locations within the sanctuary along with statistics, a Random Forest method was applied for each period. Prediction maps were made per period.
 
 ## Tools
 - ArcGIS 
@@ -50,3 +50,6 @@ The findings from these maps provide a visual record of the degree of nesting su
 The Random Forest analysis revealed that some environmental characteristics were associated with nesting success, however the degree of importance of each environmental characteristic varied substantially between each period. 
 
 The maps and the findings in these maps and the accompanying report can aid biologists and conservationists in their efforts in monitoring hihis’ nesting success in Zealandia.
+
+## Report
+Further information on how and why these methodologies were chosen to create these maps, as well as accompanying statistics, can be found in the report. 
