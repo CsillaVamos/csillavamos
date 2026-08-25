@@ -52,4 +52,8 @@ The Random Forest analysis revealed that some environmental characteristics were
 The maps and the findings in these maps and the accompanying report can aid biologists and conservationists in their efforts in monitoring hihis’ nesting success in Zealandia.
 
 ## Report
-Further information on how and why these methodologies were chosen to create these maps, as well as accompanying statistics, can be found in the report. 👉 [View Report →](hihi_project.md)
+Further information on how and why these methodologies were chosen to create these maps, as well as accompanying statistics, can be found in the report. 
+
+<a href="../assets/PDFs/Hihi_report.pdf" target="_blank">
+    View the Report
+</a>
