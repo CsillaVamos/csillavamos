@@ -71,7 +71,7 @@ title: Portfolio
 
   <div class="portfolio-card">
     <a href="projects/hihi_zealandia">
-      <img src="assets/images/change_in_hot_spots_all_sites.png" alt="change in hot spots">
+      <img src="assets/images/hotspot_maps.png" alt="change in hot spots">
     </a>
     <p><strong>Hihi bird population study in Zealandia</strong></p>
   </div>
